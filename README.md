@@ -8,10 +8,10 @@
 
 ## Biography
 
-I am a **Principal Applied Scientist** at **Microsoft AI** (Suzhou, China) working on LLM foundation and applied technologies.
-Previously, I was a **Research Scientist Manager** at Microsoft C+AI (Cloud & AI) in Shanghai.
-I received my **Ph.D.** in Computer Science from **Tongji University** (2011).
-My research interests include **natural-language processing, information retrieval, multimodal ML, large-scale model pre-training,** and applying deep learning to **software-engineering** tasks.
+I am a Principal Applied Scientist at Microsoft AI (Suzhou, China) working on LLM foundation and applied technologies.
+Previously, I was a Research Scientist Manager at Microsoft C+AI (Cloud & AI) in Shanghai.
+I received my Ph.D. in Computer Science from Tongji University (2011).
+My research interests include natural-language processing, information retrieval, multimodal ML, large-scale model pre-training, and applying deep learning to software-engineering tasks.
 
 ---
 
@@ -19,9 +19,9 @@ My research interests include **natural-language processing, information retriev
 
 | Degree    | Field                         | Institution                 | Dates             |
 | --------- | ----------------------------- | --------------------------- | ----------------- |
-| **Ph.D.** | Computer Applied Technology   | Tongji University, Shanghai | 2007-03 – 2011-03 |
-| **M.S.**  | Software Engineering          | Tongji University, Shanghai | 2004-09 – 2007-01 |
-| **B.S.**  | Computer Science & Technology | Tongji University, Shanghai | 1999-09 – 2003-07 |
+| Ph.D. | Computer Applied Technology   | Tongji University, Shanghai | 2007-03 – 2011-03 |
+| M.S.  | Software Engineering          | Tongji University, Shanghai | 2004-09 – 2007-01 |
+| B.S.  | Computer Science & Technology | Tongji University, Shanghai | 1999-09 – 2003-07 |
 
 ---
 
@@ -29,7 +29,7 @@ My research interests include **natural-language processing, information retriev
 
 | Role & Organization                                                    | Location        | Dates             | Key Responsibilities                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------- | --------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Principal Applied Scientist & Tech Lead – Microsoft**                | Suzhou, China   | 2022-09 – Present | • Lead **LLM inference acceleration** (long-sequence & reasoning models).<br>• Research multimodal models to improve Feeds Quality & Ranking.<br>• Apply large-scale LMs in **AIOps** for decision intelligence in the M365 China team. |
+| **Principal Applied Scientist & Tech Lead – Microsoft (AI)**                | Suzhou, China   | 2022-09 – Present | • Lead **LLM inference acceleration** (long-sequence & reasoning models).<br>• Research multimodal models to improve Feeds Quality & Ranking.<br>• Apply large-scale LMs in **AIOps** for decision intelligence in the M365 China team. |
 | **Principal Research Scientist & Tech Lead – Tencent (YouTu Lab)**     | Shanghai, China | 2021-09 – 2022-09 | • Led **large-scale vision-language model pre-training** for Tencent Cloud.                                                                                                                                                             |
 | **Lead Research Scientist & Manager – Microsoft (Developer Division)** | Shanghai, China | 2020-01 – 2021-09 | • Research on **semantic code search, code translation, patch generation, performance-bug detection**.                                                                                                                                  |
 | **Staff Engineer & Manager – Alibaba (DAMO Academy)**                  | Hangzhou, China | 2016-04 – 2020-01 | • Built models for **personalized e-commerce search, machine-reading comprehension, self-supervised pre-training**.                                                                                                                     |
@@ -73,14 +73,14 @@ My research interests include **natural-language processing, information retriev
 
 ## Selected Media Coverage
 
-> *MIT Technology Review* – “Alibaba has claimed a new record in AI language understanding” — **Jul 9 2019**
-> *Financial Times* – “Alibaba and Microsoft AI beat humans in Stanford reading test” — **Jan 15 2018**
-> *MIT Technology Review* – “AI Beats Humans at Reading Comprehension” — **Jan 15 2018**
-> *CNN* – “Computers are getting better than humans at reading” — **Jan 16 2018**
-> *AP News* – “AI can read! Tech firms race to smarten up thinking machines” — **Jan 27 2018**
-> *Daily Mail* – “Alibaba's AI outperforms humans in tough reading test” — **Jan 15 2018**
-> *Bloomberg* – “Alibaba's AI Outguns Humans in Reading Test” — **Jan 14 2018**
-> *The Washington Post*, *The Times*, *The Wall Street Journal*, … *(and others)* — Jan 2018
+- *MIT Technology Review* – “Alibaba has claimed a new record in AI language understanding” — **Jul 9 2019**
+- *Financial Times* – “Alibaba and Microsoft AI beat humans in Stanford reading test” — **Jan 15 2018**
+- *MIT Technology Review* – “AI Beats Humans at Reading Comprehension” — **Jan 15 2018**
+- *CNN* – “Computers are getting better than humans at reading” — **Jan 16 2018**
+- *AP News* – “AI can read! Tech firms race to smarten up thinking machines” — **Jan 27 2018**
+- *Daily Mail* – “Alibaba's AI outperforms humans in tough reading test” — **Jan 15 2018**
+- *Bloomberg* – “Alibaba's AI Outguns Humans in Reading Test” — **Jan 14 2018**
+- *The Washington Post*, *The Times*, *The Wall Street Journal*, … *(and others)* — Jan 2018
 
 ---
 
