@@ -8,42 +8,22 @@
 
 ## Biography
 
-I am a Principal Applied Scientist at Microsoft AI (Suzhou, China) working on LLM foundation and applied technologies.
-Previously, I was a Research Scientist Manager at Microsoft C+AI (Cloud & AI) in Shanghai.
-I received my Ph.D. in Computer Science from Tongji University (2011).
+I am a Principal Applied Scientist at Microsoft AI working on LLM foundation and applied technologies.
+Previously, I was a Research Scientist Manager at Microsoft C+AI.
+I received my Ph.D. in Computer Science from Tongji University.
 My research interests include natural-language processing, information retrieval, multimodal ML, large-scale model pre-training, and applying deep learning to software-engineering tasks.
-
----
-
-## Education
-
-| Degree    | Field                         | Institution                 | Dates             |
-| --------- | ----------------------------- | --------------------------- | ----------------- |
-| Ph.D. | Computer Applied Technology   | Tongji University, Shanghai | 2007-03 – 2011-03 |
-| M.S.  | Software Engineering          | Tongji University, Shanghai | 2004-09 – 2007-01 |
-| B.S.  | Computer Science & Technology | Tongji University, Shanghai | 1999-09 – 2003-07 |
 
 ---
 
 ## Professional Experience
 
-| Role & Organization                                                    | Location        | Dates             | Key Responsibilities                                                                                                                                                                                                                    |
-| ---------------------------------------------------------------------- | --------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Principal Applied Scientist & Tech Lead – Microsoft (AI)                | Suzhou, China   | 2022-09 – Present | • Lead LLM inference acceleration (long-sequence & reasoning models).<br>• Research multimodal models to improve Feeds Quality & Ranking.<br>• Apply large-scale LMs in AIOps for decision intelligence in the M365 China team. |
-| Principal Research Scientist & Tech Lead – Tencent (YouTu Lab)     | Shanghai, China | 2021-09 – 2022-09 | • Led large-scale vision-language model pre-training for Tencent Cloud.                                                                                                                                                             |
-| Lead Research Scientist & Manager – Microsoft (Developer Division) | Shanghai, China | 2020-01 – 2021-09 | • Research on semantic code search, code translation, patch generation, performance-bug detection.                                                                                                                                  |
-| Staff Engineer & Manager – Alibaba (DAMO Academy)                  | Hangzhou, China | 2016-04 – 2020-01 | • Built models for personalized e-commerce search, machine-reading comprehension, self-supervised pre-training.                                                                                                                     |
-| Staff Engineer & Tech Lead – Baidu (Search Ads)                    | Shanghai, China | 2011-04 – 2016-04 | • Applied ML, knowledge-graph mining, NLP & ad-click prediction to branding-ads performance.                                                                                                                                            |
-
----
-
-## Technical Skills
-
-| Area              | Details                  |
-| ----------------- | ------------------------ |
-| Programming   | Python, C++, C, C#, Java |
-| DL Frameworks | PyTorch, TensorFlow      |
-| Other         | Linux, LaTeX, SQL        |
+| Role & Organization                                                    | Dates             | Key Responsibilities                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Principal Applied Scientist & Tech Lead – Microsoft (AI)                | 2022-09 – Present | • Lead LLM inference acceleration (long-sequence & reasoning models).<br>• Research multimodal models to improve Feeds Quality & Ranking.<br>• Apply large-scale LMs in AIOps for decision intelligence in the M365 China team. |
+| Principal Research Scientist & Tech Lead – Tencent (YouTu Lab)     |  2021-09 – 2022-09 | • Led large-scale vision-language model pre-training for Tencent Cloud.                                                                                                                                                             |
+| Lead Research Scientist & Manager – Microsoft (Developer Division) | 2020-01 – 2021-09 | • Research on semantic code search, code translation, patch generation, performance-bug detection.                                                                                                                                  |
+| Staff Engineer & Manager – Alibaba (DAMO Academy)                  |2016-04 – 2020-01 | • Built models for personalized e-commerce search, machine-reading comprehension, self-supervised pre-training.                                                                                                                     |
+| Staff Engineer & Tech Lead – Baidu (Search Ads)                    | 2011-04 – 2016-04 | • Applied ML, knowledge-graph mining, NLP & ad-click prediction to branding-ads performance.                                                                                                                                            |
 
 ---
 
