@@ -45,7 +45,7 @@ My research interests include natural-language processing, information retrieval
 * Rank #1 GLUE Benchmark — *2019-09*
 * Rank #1 MS MARCO 2.0 Leaderboard (Microsoft) — *2019-06*
 * Rank #1 DuReader 2.0 Leaderboard (Baidu) — *2018-10*
-* Rank #1 TriviaQA (Q\&A session, Univ. Washington) — *2018-02*
+* Rank #1 TriviaQA (Q&A session, Univ. Washington) — *2018-02*
 * First system to surpass humans on SQuAD machine-reading comprehension — *2018-01*
 * Champion ACM CIKM Cup 2016 — *2016-10*
 
